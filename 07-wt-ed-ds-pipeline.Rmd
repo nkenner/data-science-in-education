@@ -834,5 +834,5 @@ technique, multi-level models, using the data we prepared as a part of this data
 processeing pipeline used in this chapter.
 
 ``` {r, echo = FALSE}
-write_csv(dat, "data/online-science-motivation/processed/sci_mo_processed.csv")
+write_csv(dat, "data/online-science-motivation/processed/wt-07-sci_mo_processed.csv")
 ```
